@@ -1,6 +1,8 @@
 # 你好啊👋
 > 💞️我是谭宁
+> 
 > [👀我的语雀](https://www.yuque.com/tanning/epv4c9)
+> 
 > 📫我的邮箱：tanningxin4@foxmail.com
 
 
