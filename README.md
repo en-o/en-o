@@ -7,5 +7,5 @@
 
 
 
-[![我常用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=en-o&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub 统计信息](https://github-readme-stats.vercel.app/api?username=en-o)](https://github.com/anuraghazra/github-readme-stats)
+[![我常用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=en-o&layout=compact)](https://tannn.cn/)
+[![GitHub 统计信息](https://github-readme-stats.vercel.app/api?username=en-o)](https://tannn.cn/)
