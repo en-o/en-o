@@ -8,4 +8,4 @@
 
 
 [![我常用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=en-o&layout=compact)](https://t.tannn.cn/)
-[![GitHub 统计信息](https://github-readme-stats.vercel.app/api?username=en-o)](https://tannn.cn/)
+[![GitHub 统计信息](https://github-readme-stats.vercel.app/api?username=en-o)](https://t.tannn.cn/)
