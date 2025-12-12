@@ -1,9 +1,9 @@
 # Hi 👋, I'm tan 💞️
 
-- [👀我的小站](https://t.tannn.cn/)
-- [🪶我的笔记](https://www.yuque.com/tanning/yg9ipo)
+- [👀小站](https://t.tannn.cn/)
+- [🪶笔记](https://www.yuque.com/tanning/yg9ipo)
 - [🐦推特](https://x.com/JpsMlv)
-- 📫我的邮箱：tanningxin4@foxmail.com
+- [📫邮箱](mailto:tanningxin4@foxmail.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
