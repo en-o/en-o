@@ -29,11 +29,11 @@
    <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> 
  </a> 
  
- <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> 
+ <a href="https://linux.do/latest" target="_blank" rel="noreferrer"> 
    <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> 
  </a> 
  
- <a href="https://linux.do/latest" target="_blank" rel="noreferrer"> 
+ <a href="https://pidoc.cn/" target="_blank" rel="noreferrer"> 
    <img src="https://skillicons.dev/icons?i=raspberrypi" alt="bash" width="40" height="40"/> 
  </a> 
 </p>
